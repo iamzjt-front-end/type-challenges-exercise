@@ -30,11 +30,9 @@
 
 🔸 记录 **TypeScript学习记录** 及 **TS 类型体操刷题记录**
 
-🔸
-高质量的类型可以提高项目的可维护性并避免一些潜在的漏洞。市面上也已经有许多优秀的类型工具库，像是 [ts-toolbelt](https://github.com/millsp/ts-toolbelt), [utility-types](https://github.com/piotrwitek/utility-types), [SimplyTyped](https://github.com/andnp/SimplyTyped)
-等等。我们也从这些项目中获取了许多灵感。
+🔸 高质量的类型可以提高项目的可维护性并避免一些潜在的漏洞。
 
-🔸 本项目意在于更好的了解 TS 的类型系统，编写自己的类型工具，同时也享受挑战的乐趣！
+🔸 本项目意在于帮助自己更好的了解 TS 的类型系统，编写自己的类型工具，同时也享受挑战的乐趣！
 
 ## 笔记
 
