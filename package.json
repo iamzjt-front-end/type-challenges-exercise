@@ -4,5 +4,24 @@
   "main": "index.js",
   "repository": "git@github.com:iamzjt-front-end/type-challenges-exercise.git",
   "author": "iamzjt-front-end <iamzjt@foxmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "build:w": "tsc -w",
+    "test": "tsd"
+  },
+  "dependencies": {
+    "@type-challenges/utils": "^0.1.1",
+    "tsd": "^0.28.1"
+  },
+  "tsd": {
+    "directory": "test-dts",
+    "compilerOptions": {
+      "strict": false,
+      "lib": [
+        "esnext",
+        "dom"
+      ]
+    }
+  }
 }
