@@ -34,7 +34,6 @@
 
 🔸 如果你也想挑战一下，可以 `clone` 一下本项目的 `init-env` 分支。
 
-
 ```bash
 # 克隆本项目
 git clone https://github.com/iamzjt-front-end/type-challenges-exercise.git
@@ -60,13 +59,13 @@ yarn run copy 4
 
 ## 笔记
 
-[//]: # ([📄 01_数据结构与算法简介]&#40;https://github.com/iamzjt-front-end/algorithm-study/blob/main/docs/md/01_数据结构与算法简介.md&#41;)
-
 暂无...
 
 ## 刷题记录
 
-| #  | 题目                                                                                                                                           | 难度 | 题解                                                                                                                                 |
-|----|----------------------------------------------------------------------------------------------------------------------------------------------|----|------------------------------------------------------------------------------------------------------------------------------------|
-| 13 | [Hello World](https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00013-warm-hello-world/README.zh-CN.md) | 热身 | 🎯 [链接](https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00013-warm-hello-world/template.ts) |
-| 4  | [实现 Pick](https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00004-easy-pick/README.zh-CN.md)            | 简单 | 🎯 [链接](https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00004-easy-pick/template.ts)        |
+| #  | 题目                                                                                                                                           | 难度 | 题解                                                                                                                                     |
+|----|----------------------------------------------------------------------------------------------------------------------------------------------|----|----------------------------------------------------------------------------------------------------------------------------------------|
+| 13 | [Hello World](https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00013-warm-hello-world/README.zh-CN.md) | 热身 | 🎯 [链接](https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00013-warm-hello-world/template.ts)     |
+| 4  | [实现 Pick](https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00004-easy-pick/README.zh-CN.md)            | 简单 | 🎯 [链接](https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00004-easy-pick/template.ts)            |
+| 7  | [实现 Readonly](https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00007-easy-readonly/README.zh-CN.md)    | 简单 | 🎯 [链接](https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00007-easy-readonly/template.ts)        |
+| 11 | [元组转换为对象](https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00011-easy-tuple-to-object/README.zh-CN.md) | 简单 | 🎯 [链接](https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00011-easy-tuple-to-object/template.ts) |
