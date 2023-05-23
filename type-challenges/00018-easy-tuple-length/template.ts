@@ -1,0 +1,1 @@
+type Length<T> = any
