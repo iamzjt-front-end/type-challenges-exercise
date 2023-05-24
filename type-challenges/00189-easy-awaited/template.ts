@@ -1,0 +1,1 @@
+type MyAwaited<T> = any
