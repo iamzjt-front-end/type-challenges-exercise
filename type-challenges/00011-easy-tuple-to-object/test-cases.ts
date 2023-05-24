@@ -10,5 +10,4 @@ type cases = [
   Expect<Equal<TupleToObject<typeof tupleMix>, { 1: 1; '2': '2'; 3: 3; '4': '4' }>>,
 ]
 
-// @ts-expect-error
 type error = TupleToObject<[[1, 2], {}]>
