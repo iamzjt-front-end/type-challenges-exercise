@@ -28,7 +28,34 @@
 
 🔸 高质量的类型可以提高项目的可维护性并避免一些潜在的漏洞。
 
-🔸 本项目意在于帮助自己更好的了解 TS 的类型系统，编写自己的类型工具，同时也享受挑战的乐趣！
+🔸 本项目意在于帮助自己更好的了解 **TS** 的类型系统，编写自己的类型工具，同时也享受挑战的乐趣！
+
+🔸 本项目的题目来自于 [type-challenges](https://github.com/type-challenges/type-challenges) 项目，感谢！
+
+🔸 如果你也想挑战一下，可以 `clone` 一下本项目的 `init-env` 分支。
+
+```bash
+# 克隆本项目
+git clone https://github.com/iamzjt-front-end/type-challenges-exercise.git
+
+# 本项目的同级目录下，克隆 type-challenges
+git clone https://github.com/type-challenges/type-challenges.git
+
+# 进入 本项目
+cd type-challenges-exercise
+
+# 切换到 init-env 分支
+git checkout init-env
+
+# 安装依赖
+yarn install
+
+# 每次想做题的时候都只需要记住编号，比如第一题 00004-easy-pick。
+# 然后执行下面的命令，就会在 当前项目的type-challenges下拷贝过来对应的题目。
+yarn run copy 4
+
+# 然后就可以开心做题了！🤩
+```
 
 ## 笔记
 
