@@ -1,1 +1,0 @@
-type MyReadonly<T> = any

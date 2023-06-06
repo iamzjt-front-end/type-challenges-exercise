@@ -32,13 +32,33 @@
 
 ## 笔记
 
-[//]: # ([📄 01_数据结构与算法简介]&#40;https://github.com/iamzjt-front-end/algorithm-study/blob/main/docs/md/01_数据结构与算法简介.md&#41;)
-
 暂无...
 
 ## 刷题记录
 
-| #  | 题目                                                                                                                                           | 难度 | 题解                                                                                                                                 |
-|----|----------------------------------------------------------------------------------------------------------------------------------------------|----|------------------------------------------------------------------------------------------------------------------------------------|
-| 13 | [Hello World](https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00013-warm-hello-world/README.zh-CN.md) | 热身 | 🎯 [链接](https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00013-warm-hello-world/template.ts) |
-| 4  | [实现 Pick](https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00004-easy-pick/README.zh-CN.md)            | 简单 | 🎯 [链接](https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00004-easy-pick/template.ts)        |
+<table>
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>题号</th>
+      <th>题目</th>
+      <th>难度</th>
+      <th>题解</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>
+        <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00013-warm-hello-world/test-cases.ts">00013-warm-hello-world</a>
+      </td>
+      <td>
+        <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00013-warm-hello-world/README.zh-CN.md">Hello World</a>
+      </td>
+      <td>热身</td>
+      <td>
+        🎯 <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00013-warm-hello-world/template.ts">链接</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
