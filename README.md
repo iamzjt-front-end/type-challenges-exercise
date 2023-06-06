@@ -77,7 +77,7 @@ yarn run copy 4
     <tr>
       <td>1</td>
       <td>
-        <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00013-warm-hello-world/test-case.ts">00013-warm-hello-world</a>
+        <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00013-warm-hello-world/test-cases.ts">00013-warm-hello-world</a>
       </td>
       <td>
         <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00013-warm-hello-world/README.zh-CN.md">Hello World</a>
@@ -90,7 +90,7 @@ yarn run copy 4
     <tr>
       <td>2</td>
       <td>
-        <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00004-easy-pick/test-case.ts">00004-easy-pick</a>
+        <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00004-easy-pick/test-cases.ts">00004-easy-pick</a>
       </td>
       <td>
         <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00004-easy-pick/README.zh-CN.md">实现 Pick</a>
@@ -103,7 +103,7 @@ yarn run copy 4
     <tr>
       <td>3</td>
       <td>
-        <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00007-easy-readonly/test-case.ts">00007-easy-readonly</a>
+        <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00007-easy-readonly/test-cases.ts">00007-easy-readonly</a>
       <td>
         <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00007-easy-readonly/README.zh-CN.md">实现 Readonly</a>
       </td>
@@ -115,7 +115,7 @@ yarn run copy 4
     <tr>
       <td>4</td>
       <td>
-        <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00011-easy-tuple-to-object/test-case.ts">00011-easy-tuple-to-object</a>
+        <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00011-easy-tuple-to-object/test-cases.ts">00011-easy-tuple-to-object</a>
       </td>
       <td>
         <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00011-easy-tuple-to-object/README.zh-CN.md">元组转换为对象</a>
@@ -128,7 +128,7 @@ yarn run copy 4
     <tr>
       <td>5</td>
       <td>
-        <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00014-easy-first/test-case.ts">00014-easy-first</a>
+        <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00014-easy-first/test-cases.ts">00014-easy-first</a>
       </td>
       <td>
         <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00014-easy-first/README.zh-CN.md">第一个元素</a>
@@ -141,7 +141,7 @@ yarn run copy 4
     <tr>
       <td>6</td>
       <td>
-        <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00018-easy-tuple-length/test-case.ts">00018-easy-tuple-length</a>
+        <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00018-easy-tuple-length/test-cases.ts">00018-easy-tuple-length</a>
       </td>
       <td>
         <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00018-easy-tuple-length/README.zh-CN.md">获取元组长度</a>
@@ -154,7 +154,7 @@ yarn run copy 4
     <tr>
       <td>7</td>
       <td>
-        <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00043-easy-exclude/test-case.ts">00043-easy-exclude</a>
+        <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00043-easy-exclude/test-cases.ts">00043-easy-exclude</a>
       </td>
       <td>
         <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00043-easy-exclude/README.zh-CN.md">Exclude</a>
@@ -167,7 +167,7 @@ yarn run copy 4
     <tr>
       <td>8</td>
       <td>
-        <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00189-easy-awaited/test-case.ts">00189-easy-awaited</a>
+        <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00189-easy-awaited/test-cases.ts">00189-easy-awaited</a>
       </td>
       <td>
         <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00189-easy-awaited/README.zh-CN.md">Awaited</a>
@@ -180,7 +180,7 @@ yarn run copy 4
     <tr>
       <td>9</td>
       <td>
-        <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00268-easy-if/test-case.ts">00268-easy-if</a>
+        <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00268-easy-if/test-cases.ts">00268-easy-if</a>
       </td>
       <td>
         <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00268-easy-if/README.zh-CN.md">If</a>
@@ -193,7 +193,7 @@ yarn run copy 4
     <tr>
       <td>10</td>
       <td>
-        <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00533-easy-concat/test-case.ts">00533-easy-concat</a>
+        <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00533-easy-concat/test-cases.ts">00533-easy-concat</a>
       </td>
       <td>
         <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00533-easy-concat/README.zh-CN.md">Concat</a>
