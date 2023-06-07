@@ -203,5 +203,31 @@ yarn run copy 4
         🎯 <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00533-easy-concat/template.ts">链接</a>
       </td>
     </tr>
+    <tr>
+      <td>11</td>
+      <td>
+        <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00898-easy-includes/test-cases.ts">00898-easy-includes</a>
+      </td>
+      <td>
+        <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00898-easy-includes/README.zh-CN.md">Includes</a>
+      </td>
+      <td>简单</td>
+      <td>
+        🎯 <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00898-easy-includes/template.ts">链接</a>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>
+        <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/03057-easy-push/test-cases.ts">03057-easy-push</a>
+      </td>
+      <td>
+        <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/03057-easy-push/README.zh-CN.md">Push</a>
+      </td>
+      <td>简单</td>
+      <td>
+        🎯 <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/03057-easy-push/template.ts">链接</a>
+      </td>
+    </tr>
   </tbody>
 </table>
