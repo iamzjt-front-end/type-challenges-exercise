@@ -63,6 +63,18 @@ yarn run copy 4
 
 ## 刷题记录
 
+> 难度对应： 
+> 
+> 🔥 ➡️ 热身 【warm】
+> 
+> ⭐ ➡️ 简单 【easy】
+> 
+> ⭐⭐ ➡️ 中等 【medium】
+> 
+> ⭐⭐⭐ ➡️ 困难 【hard】
+> 
+> ⭐⭐⭐⭐⭐ ➡️ 地狱难度 【extreme】
+
 <table>
   <thead>
     <tr>
