@@ -235,7 +235,18 @@ yarn run copy 4
       </td>
       <td>⭐⭐</td>
       <td>
-        🎯 <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/033103312-easy-parameters/template.ts">链接</a>
+        🎯 <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00002-medium-return-type/template.ts">链接</a>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>00003-medium-omit</td>
+      <td>
+        <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00003-medium-omit/README.zh-CN.md">获取函数返回类型</a>
+      </td>
+      <td>⭐⭐</td>
+      <td>
+        🎯 <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00002-medium-return-type/template.ts">链接</a>
       </td>
     </tr>
   </tbody>
