@@ -80,7 +80,7 @@ yarn run copy 4
       <td>
         <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00013-warm-hello-world/README.zh-CN.md">Hello World</a>
       </td>
-      <td>热身</td>
+      <td align="center">🔥</td>
       <td>
         🎯 <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00013-warm-hello-world/template.ts">链接</a>
       </td>
@@ -91,7 +91,7 @@ yarn run copy 4
       <td>
         <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00004-easy-pick/README.zh-CN.md">实现 Pick</a>
       </td>
-      <td>简单</td>
+      <td align="center">⭐</td>
       <td>
         🎯 <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00004-easy-pick/template.ts">链接</a>
       </td>
@@ -101,7 +101,7 @@ yarn run copy 4
       <td>00007-easy-readonly<td>
         <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00007-easy-readonly/README.zh-CN.md">实现 Readonly</a>
       </td>
-      <td>简单</td>
+      <td align="center">⭐</td>
       <td>
         🎯 <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00007-easy-readonly/template.ts">链接</a>
       </td>
@@ -112,7 +112,7 @@ yarn run copy 4
       <td>
         <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00011-easy-tuple-to-object/README.zh-CN.md">元组转换为对象</a>
       </td>
-      <td>简单</td>
+      <td align="center">⭐</td>
       <td>
         🎯 <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00011-easy-tuple-to-object/template.ts">链接</a>
       </td>
@@ -123,7 +123,7 @@ yarn run copy 4
       <td>
         <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00014-easy-first/README.zh-CN.md">第一个元素</a>
       </td>
-      <td>简单</td>
+      <td align="center">⭐</td>
       <td>
         🎯 <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00014-easy-first/template.ts">链接</a>
       </td>
@@ -134,7 +134,7 @@ yarn run copy 4
       <td>
         <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00018-easy-tuple-length/README.zh-CN.md">获取元组长度</a>
       </td>
-      <td>简单</td>
+      <td align="center">⭐</td>
       <td>
         🎯 <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00018-easy-tuple-length/template.ts">链接</a>
       </td>
@@ -145,7 +145,7 @@ yarn run copy 4
       <td>
         <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00043-easy-exclude/README.zh-CN.md">Exclude</a>
       </td>
-      <td>简单</td>
+      <td align="center">⭐</td>
       <td>
         🎯 <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00043-easy-exclude/template.ts">链接</a>
       </td>
@@ -156,7 +156,7 @@ yarn run copy 4
       <td>
         <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00189-easy-awaited/README.zh-CN.md">Awaited</a>
       </td>
-      <td>简单</td>
+      <td align="center">⭐</td>
       <td>
         🎯 <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00189-easy-awaited/template.ts">链接</a>
       </td>
@@ -167,7 +167,7 @@ yarn run copy 4
       <td>
         <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00268-easy-if/README.zh-CN.md">If</a>
       </td>
-      <td>简单</td>
+      <td align="center">⭐</td>
       <td>
         🎯 <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00268-easy-if/template.ts">链接</a>
       </td>
@@ -178,7 +178,7 @@ yarn run copy 4
       <td>
         <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00533-easy-concat/README.zh-CN.md">Concat</a>
       </td>
-      <td>简单</td>
+      <td align="center">⭐</td>
       <td>
         🎯 <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00533-easy-concat/template.ts">链接</a>
       </td>
@@ -189,7 +189,7 @@ yarn run copy 4
       <td>
         <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00898-easy-includes/README.zh-CN.md">Includes</a>
       </td>
-      <td>简单</td>
+      <td align="center">⭐</td>
       <td>
         🎯 <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00898-easy-includes/template.ts">链接</a>
       </td>
@@ -200,7 +200,7 @@ yarn run copy 4
       <td>
         <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/03057-easy-push/README.zh-CN.md">Push</a>
       </td>
-      <td>简单</td>
+      <td align="center">⭐</td>
       <td>
         🎯 <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/03057-easy-push/template.ts">链接</a>
       </td>
@@ -211,7 +211,7 @@ yarn run copy 4
       <td>
         <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/03060-easy-unshift/README.zh-CN.md">Unshift</a>
       </td>
-      <td>简单</td>
+      <td align="center">⭐</td>
       <td>
         🎯 <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/03060-easy-unshift/template.ts">链接</a>
       </td>
@@ -222,9 +222,20 @@ yarn run copy 4
       <td>
         <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/03312-easy-parameters/README.zh-CN.md">Parameters</a>
       </td>
-      <td>简单</td>
+      <td align="center">⭐</td>
       <td>
         🎯 <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/03312-easy-parameters/template.ts">链接</a>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>00002-medium-return-type</td>
+      <td>
+        <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00002-medium-return-type/README.zh-CN.md">Parameters</a>
+      </td>
+      <td>⭐⭐</td>
+      <td>
+        🎯 <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/033103312-easy-parameters/template.ts">链接</a>
       </td>
     </tr>
   </tbody>
