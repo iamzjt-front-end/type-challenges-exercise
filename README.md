@@ -242,7 +242,7 @@ yarn run copy 4
       <td>16</td>
       <td>00003-medium-omit</td>
       <td>
-        <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00003-medium-omit/README.zh-CN.md">获取函数返回类型</a>
+        <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00003-medium-omit/README.zh-CN.md">实现 Omit</a>
       </td>
       <td>⭐⭐</td>
       <td>
