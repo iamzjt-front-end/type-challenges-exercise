@@ -205,5 +205,27 @@ yarn run copy 4
         🎯 <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/03057-easy-push/template.ts">链接</a>
       </td>
     </tr>
+    <tr>
+      <td>13</td>
+      <td>03060-easy-unshift</td>
+      <td>
+        <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/03060-easy-unshift/README.zh-CN.md">Unshift</a>
+      </td>
+      <td>简单</td>
+      <td>
+        🎯 <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/03060-easy-unshift/template.ts">链接</a>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>03312-easy-parameters</td>
+      <td>
+        <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/03312-easy-parameters/README.zh-CN.md">Parameters</a>
+      </td>
+      <td>简单</td>
+      <td>
+        🎯 <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/03312-easy-parameters/template.ts">链接</a>
+      </td>
+    </tr>
   </tbody>
 </table>
