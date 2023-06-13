@@ -231,7 +231,7 @@ yarn run copy 4
       <td>15</td>
       <td>00002-medium-return-type</td>
       <td>
-        <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00002-medium-return-type/README.zh-CN.md">Parameters</a>
+        <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00002-medium-return-type/README.zh-CN.md">获取函数返回类型</a>
       </td>
       <td>⭐⭐</td>
       <td>
