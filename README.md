@@ -283,5 +283,49 @@ yarn run copy 4
         🎯 <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00009-medium-deep-readonly/template.ts">链接</a>
       </td>
     </tr>
+    <tr>
+      <td>19</td>
+      <td>00010-medium-tuple-to-union</td>
+      <td>
+        <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00010-medium-tuple-to-union/README.zh-CN.md">元组转合集</a>
+      </td>
+      <td>⭐⭐</td>
+      <td>
+        🎯 <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00010-medium-tuple-to-union/template.ts">链接</a>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>00012-medium-chainable-options</td>
+      <td>
+        <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00012-medium-chainable-options/README.zh-CN.md">可串联构造器</a>
+      </td>
+      <td>⭐⭐</td>
+      <td>
+        🎯 <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00012-medium-chainable-options/template.ts">链接</a>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>00015-medium-last</td>
+      <td>
+        <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00015-medium-last/README.zh-CN.md">最后一个元素</a>
+      </td>
+      <td>⭐⭐</td>
+      <td>
+        🎯 <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00015-medium-last/template.ts">链接</a>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>00016-medium-pop</td>
+      <td>
+        <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00016-medium-pop/README.zh-CN.md">出堆</a>
+      </td>
+      <td>⭐⭐</td>
+      <td>
+        🎯 <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00016-medium-pop/template.ts">链接</a>
+      </td>
+    </tr>
   </tbody>
 </table>
