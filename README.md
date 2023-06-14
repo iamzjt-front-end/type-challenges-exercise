@@ -261,5 +261,27 @@ yarn run copy 4
         🎯 <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00003-medium-omit/template.ts">链接</a>
       </td>
     </tr>
+    <tr>
+      <td>17</td>
+      <td>00003-medium-readonly-2</td>
+      <td>
+        <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00003-medium-readonly-2/README.zh-CN.md">Readonly 2</a>
+      </td>
+      <td>⭐⭐</td>
+      <td>
+        🎯 <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00003-medium-readonly-2/template.ts">链接</a>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>00003-medium-deep-readonly</td>
+      <td>
+        <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00003-medium-deep-readonly/README.zh-CN.md">深度 Readonly</a>
+      </td>
+      <td>⭐⭐</td>
+      <td>
+        🎯 <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00003-medium-deep-readonly/template.ts">链接</a>
+      </td>
+    </tr>
   </tbody>
 </table>
