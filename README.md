@@ -327,5 +327,38 @@ yarn run copy 4
         🎯 <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00016-medium-pop/template.ts">链接</a>
       </td>
     </tr>
+    <tr>
+      <td>23</td>
+      <td>00020-medium-promise-all</td>
+      <td>
+        <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00020-medium-promise-all/README.zh-CN.md">Promise.all</a>
+      </td>
+      <td>⭐⭐</td>
+      <td>
+        🎯 <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00020-medium-promise-all/template.ts">链接</a>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>00062-medium-type-lookup</td>
+      <td>
+        <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00062-medium-type-lookup/README.zh-CN.md">Type Lookup</a>
+      </td>
+      <td>⭐⭐</td>
+      <td>
+        🎯 <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00062-medium-type-lookup/template.ts">链接</a>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>00106-medium-trimleft</td>
+      <td>
+        <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00106-medium-trimleft/README.zh-CN.md">Trim Left</a>
+      </td>
+      <td>⭐⭐</td>
+      <td>
+        🎯 <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00106-medium-trimleft/template.ts">链接</a>
+      </td>
+    </tr>
   </tbody>
 </table>
