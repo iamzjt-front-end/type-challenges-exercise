@@ -360,5 +360,16 @@ yarn run copy 4
         🎯 <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00106-medium-trimleft/template.ts">链接</a>
       </td>
     </tr>
+    <tr>
+      <td>26</td>
+      <td>00108-medium-trim</td>
+      <td>
+        <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00108-medium-trim/README.zh-CN.md">Trim</a>
+      </td>
+      <td>⭐⭐</td>
+      <td>
+        🎯 <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00108-medium-trim/template.ts">链接</a>
+      </td>
+    </tr>
   </tbody>
 </table>
