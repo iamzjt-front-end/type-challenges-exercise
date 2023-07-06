@@ -100,10 +100,10 @@ function copyQuestion(entry: string, output: string, files = ["README.zh-CN.md",
     let itemPath = path.join(output, item);
     if (fs.existsSync(itemPath)) {
       console.log(item, "已存在，跳过该文件");
-      child.exec("code " + itemPath);
+      // child.exec("code " + itemPath);
     } else if (fs.existsSync(path.join(entry, item))) {
       fs.copyFileSync(path.join(entry, item), itemPath);
-      child.exec("code " + itemPath);
+      // child.exec("code " + itemPath);
     }
   });
   console.log("复制完成:" + output);
