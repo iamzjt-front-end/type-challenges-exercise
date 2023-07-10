@@ -371,5 +371,49 @@ yarn run copy 4
         🎯 <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00108-medium-trim/template.ts">链接</a>
       </td>
     </tr>
+    <tr>
+      <td>27</td>
+      <td>00110-medium-capitalize</td>
+      <td>
+        <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00110-medium-capitalize/README.zh-CN.md">Capitalize</a>
+      </td>
+      <td>⭐⭐</td>
+      <td>
+        🎯 <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00110-medium-capitalize/template.ts">链接</a>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>00116-medium-replace</td>
+      <td>
+        <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00116-medium-replace/README.zh-CN.md">Replace</a>
+      </td>
+      <td>⭐⭐</td>
+      <td>
+        🎯 <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00116-medium-replace/template.ts">链接</a>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>00119-medium-replaceall</td>
+      <td>
+        <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00119-medium-replaceall/README.zh-CN.md">ReplaceAll</a>
+      </td>
+      <td>⭐⭐</td>
+      <td>
+        🎯 <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00119-medium-replaceall/template.ts">链接</a>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>00191-medium-append-argument</td>
+      <td>
+        <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00191-medium-append-argument/README.zh-CN.md">追加参数</a>
+      </td>
+      <td>⭐⭐</td>
+      <td>
+        🎯 <a href="https://github.com/iamzjt-front-end/type-challenges-exercise/blob/main/type-challenges/00191-medium-append-argument/template.ts">链接</a>
+      </td>
+    </tr>
   </tbody>
 </table>
